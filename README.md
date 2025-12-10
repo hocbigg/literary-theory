@@ -21,24 +21,13 @@ they belong in [extras/courses](extras/courses.md), [extras/readings](extras/rea
 
 ## Organization
 
-- **Intro Phase**: Builds foundational skills in reading, writing, and basic literary concepts. Equivalent to first-year fundamentals.
-- **Core Phase**: Covers essential surveys of literature, genres, and analytical methods. Equivalent to second- and third-year breadth.
-- **Advanced Phase**: Offers depth through elective subjects and 2–4 specialization tracks for focused expertise.
-- **Capstone Phase**: A culminating project to integrate knowledge, demonstrate mastery, and apply skills in an original way.
-
-**Milestones**:
-
-- **After Intro**: Basic proficiency in literary analysis; ability to critique short texts independently.
-- **After Core**: Broad knowledge of literary history and genres; readiness for specialized study.
-- **After Advanced**: Deep expertise in chosen track(s); portfolio of analytical work.
-- **Program Completion**: Capstone submission, equivalent to a bachelor's thesis or project.
-
-**Specialization Tracks** (Choose 1–2 for depth; others as electives):
-
-- **British and Commonwealth Literature** – Focuses on literature from the UK and former colonies, emphasizing historical and postcolonial perspectives.
-- **American Literature** – Explores U.S. literary traditions, including regional, ethnic, and modern developments.
-- **World and Comparative Literature** – Examines global texts in translation, cross-cultural themes, and comparative methods.
-- **Literary Theory and Criticism** – Delves into theoretical frameworks, from formalism to postmodernism, for advanced interpretation.
+- **Intro**: Builds foundational skills in reading, writing, and basic literary concepts. Equivalent to first-year fundamentals.
+- **Core**: Covers essential surveys of literature, genres, and analytical methods. Equivalent to second- and third-year breadth.
+- **Advanced**: Offers depth through elective subjects and 2–4 specialization tracks for focused expertise.
+    - **British and Commonwealth Literature** – Focuses on literature from the UK and former colonies, emphasizing historical and postcolonial perspectives.
+    - **American Literature** – Explores U.S. literary traditions, including regional, ethnic, and modern developments.
+    - **World and Comparative Literature** – Examines global texts in translation, cross-cultural themes, and comparative methods.
+    - **Literary Theory and Criticism** – Delves into theoretical frameworks, from formalism to postmodernism, for advanced interpretation.
 
 **Duration**. 1–2 years at ~20 hours/week, depending on background and pace.
 Courses are sequenced to avoid cognitive overload; many are self-paced.
@@ -63,7 +52,7 @@ Broad surveys of literary history, major works, and analytical tools. Subjects b
 | Survey of Western Literature I (Ancient to Medieval) | | *The Norton Anthology of Western Literature, Volume 1* | [Great Books 101: Ancient to Medieval](https://online.hillsdale.edu/courses/promo/great-books-101) & [Ancient Masterpieces of World Literature](https://pll.harvard.edu/course/ancient-masterpieces-world-literature) |
 | Survey of Western Literature II (Renaissance to Enlightenment) | | *The Norton Anthology of Western Literature, Volume 1* (or Public domain texts from Project Gutenberg). | [Renaissance Literature](https://ocw.mit.edu/courses/21l-463-renaissance-literature-fall-2008/) |
 | Survey of Western Literature III (Romanticism to Modernism) | | *The Norton Anthology of Western Literature, Volume 2* (or Public domain texts from Project Gutenberg). | [The Romantics](https://www.open.edu/openlearn/history-the-arts/literature/the-romantics) |
-| Introduction to Non-Western Literature | | *The Norton Anthology of World Literature, Volume F* (or Public domain translations from Project Gutenberg). | [Modern Masterpieces of World Literature](https://www.edx.org/learn/literature/harvard-university-modern-masterpieces-of-world-literature) | Self-paced | 4 hours/week | Introduction to Literary Studies
+| Introduction to Non-Western Literature | | *The Norton Anthology of World Literature, Volume F* (or Public domain translations from Project Gutenberg). | [Modern Masterpieces of World Literature](https://www.edx.org/learn/literature/harvard-university-modern-masterpieces-of-world-literature) |
 | Literary Genres and Forms | | | *The Norton Introduction to Literature* by Kelly J. Mays (or *How to Read Literature Like a Professor* by Thomas C. Foster) |
 | Introduction to Literary Theory | | *Literary Theory: An Introduction* by Terry Eagleton | [Introduction to Theory of Literature](https://oyc.yale.edu/english/engl-300) |
 
@@ -91,7 +80,7 @@ Elective depth and specialization. Complete 4–6 subjects, including at least 2
 | Subject | Why study? | Book | Videos |
 | --- | --- | --- | --- |
 | Early American Literature | | | [American Literature](https://ocw.mit.edu/courses/21l-006-american-literature-spring-2013/) |
-| 19th–20th Century American Literature | | | [The American Renaissance: Classic Literature of the 19th Century](https://www.edx.org/learn/literature/dartmouth-college-the-american-renaissance-classic-literature-of-the-19th-century) | Self-paced | 5 hours/week | Early American Literature
+| 19th–20th Century American Literature | | | [The American Renaissance: Classic Literature of the 19th Century](https://www.edx.org/learn/literature/dartmouth-college-the-american-renaissance-classic-literature-of-the-19th-century) |
 | Contemporary American Literature | | | [The American Novel Since 1945](https://oyc.yale.edu/english/engl-291) |
 
 ### World and Comparative Literature
